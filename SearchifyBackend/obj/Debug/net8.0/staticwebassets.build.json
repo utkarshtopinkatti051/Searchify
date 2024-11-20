@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r7tQohRClZdp86Nyz6KTdQv9UnaBzpJZOt09qF8OFGU=",
+  "Source": "SearchifyBackend",
+  "BasePath": "_content/SearchifyBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
